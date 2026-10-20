@@ -50,14 +50,7 @@
     * [3.5.8 Сроки](#358-deadline)
     * [3.5.9 Доказательство концепции](#359-proof-of-concept)
     * [3.5.10 Управление изменениями](#3510-change-management)
-  * [3.6 ИИ/МО](#36-aiml)
-    * [3.6.1 Спецификация модели](#361-model-specification)
-    * [3.6.2 Управление данными](#362-data-management)
-    * [3.6.3 Ограничители (Guardrails)](#363-guardrails)
-    * [3.6.4 Этика](#364-ethics)
-    * [3.6.5 Human-in-the-Loop](#365-human-in-the-loop)
-    * [3.6.6 Жизненный цикл модели и операции](#366-model-lifecycle-and-operations)
-* [4. Верификация](#4-verification)
+  * [4. Верификация](#4-verification)
 * [5. Приложения](#5-appendixes)
 <!-- TOC -->
 
