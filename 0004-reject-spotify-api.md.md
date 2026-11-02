@@ -3,7 +3,6 @@ status: "rejected"
 date: 2026-11-02
 decision-makers: Тукайло М.А., Огородник Е.В.
 consulted: Куприянова Д.В.
-informed: Команда разработки
 ---
 
 # Отказ от интеграции с музыкальным API (Spotify) в MVP
